@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    margin: 0 20px;
+    cursor:pointer;
+}
+ul li.active{
+    color:#990000;
+}
+.all-tabs .tab{
+    display:none;
+    width:500px;
+    margin:0 auto;
+}
+.all-tabs .tab.active{
+    display:block;
+}
