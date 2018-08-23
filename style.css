@@ -15,6 +15,7 @@ ul li.active{
     display:none;
     width:500px;
     margin:0 auto;
+
 }
 .all-tabs .tab.active{
     display:block;
